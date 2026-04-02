@@ -1,6 +1,6 @@
-# Supply Chain Demand Forecasting (Time Series Analysis)
+# # Time-Series Forecasting & Trend Decomposition (R)
 
-This project applies time-series analysis to model and forecast demand trends in supply chain operations.
+This project demonstrates time-series modeling, trend decomposition, and forecasting techniques using R on structured temporal data.
 
 Using historical quarterly expenditure data, the model identifies underlying trends, seasonality, and patterns to support better planning and decision-making.
 
